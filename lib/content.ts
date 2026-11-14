@@ -199,7 +199,7 @@ const ar = {
       card: { src: "/images/lv-chalet-b.webp", alt: "Floating Chalet B في Ledge Valley" },
       waText: "مرحباً، أريد أسعار ووحدات Ledge Valley في مكادي هايتس",
       page: {
-        metaTitle: "Ledge Valley مكادي هايتس | شاليهات على اللاجون من 11.5 مليون — أوراسكوم",
+        metaTitle: "Ledge Valley مكادي هايتس | شاليهات على اللاجون من 13.5 مليون — أوراسكوم",
         metaDesc: `Ledge Valley أحدث مراحل مكادي هايتس الغردقة: 274 وحدة، Floating Chalets بتراس خاص فوق اللاجون، من غرفة حتى 4 غرف. تبدأ من ${SITE.chaletsFrom} مليون جنيه.`,
         hero: { src: "/images/lv-pool.webp", alt: "لاجون وحمام سباحة Ledge Valley في مكادي هايتس" },
         heroLead: "شاليهات Floating تنزل منها مباشرة إلى لاجون قابل للسباحة، في أحدث وأهدأ مراحل مكادي هايتس.",
