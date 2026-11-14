@@ -3,14 +3,14 @@
 // ============================================================
 
 export const SITE = {
-  url: "https://www.makadiheights.info", // ← دومين الصفحة
+  url: "https://www.makadiheightseg.org", // ← دومين الصفحة
   brand: "The Real Deal", // ← اسم المسوّق الظاهر في الإفصاح
   phone: "01060997771",
   phoneIntl: "+201060997771",
   whatsapp: "201060997771",
   email: "leads@makadiheights.info",
 
-  web3formsKey: "",
+  web3formsKey: "2661d69f-fbeb-48ae-adcf-281d86e5b9d9",
 
   adsId: "",
   conversions: {
