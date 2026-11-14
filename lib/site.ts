@@ -5,18 +5,18 @@
 export const SITE = {
   url: "https://www.makadiheights.info", // ← دومين الصفحة
   brand: "The Real Deal", // ← اسم المسوّق الظاهر في الإفصاح
-  phone: "01000411014",
-  phoneIntl: "+201000411014",
-  whatsapp: "201287470001",
+  phone: "01060997771",
+  phoneIntl: "+201060997771",
+  whatsapp: "201060997771",
   email: "leads@makadiheights.info",
 
-  web3formsKey: "f78e6862-ce6c-439c-8908-056194b95b68",
+  web3formsKey: "",
 
-  adsId: "AW-11305040793",
+  adsId: "",
   conversions: {
-    form: "AW-11305040793/p2HDCOyS1pwdEJn31I4q",
-    whatsapp: "AW-11305040793/i0W5CN3s15wdEJn31I4q'",
-    call: "AW-11305040793/CT3MCMn_zJwdEJn31I4q",
+    form: "",
+    whatsapp: "",
+    call: "",
   },
 
   chaletsFrom: "11.5",
