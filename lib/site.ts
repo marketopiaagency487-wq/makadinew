@@ -19,7 +19,7 @@ export const SITE = {
     call: "",
   },
 
-  chaletsFrom: "11.5",
+  chaletsFrom: "13.5",
   villasFrom: "23",
   adenFrom: "15", // Aden Parks — شاليه غرفتين
   installmentYears: "8",
